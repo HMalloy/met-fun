@@ -1,6 +1,6 @@
-# Fun with the Met
+# The Metropolitan Museum of Art
 
-I would like to create a simple, responsive website showcasing art and artists from The Metropolitan Museum of Art's unrestricted API. Because the Met already has a lovely and responsive website, I would create very simple UI that serves up a piece at random with facts about the art and artist.  
+I would like to create a simple, responsive website showcasing art and artists from The Metropolitan Museum of Art's unrestricted API. Because the Met already has a lovely and responsive website, I would create a very simple UI that serves up a piece at random with facts about the art and artist.  
 
 ## API URL
 
